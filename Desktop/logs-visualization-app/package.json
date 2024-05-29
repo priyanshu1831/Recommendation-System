@@ -1,0 +1,26 @@
+{
+  "name": "logs-visualization-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "joi": "^17.11.0",
+    "koa": "^2.14.2",
+    "koa-bodyparser": "^4.4.1",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^12.0.1",
+    "koa-send": "^5.0.1",
+    "koa-static": "^5.0.0",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.3.2",
+    "react-chartjs-2": "^5.2.0"
+  }
+}
